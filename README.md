@@ -1,2 +1,1 @@
-# A3_CFP
-ArmA 3 Community Faction Pack
+# ArmA 3 Community Faction Pack
